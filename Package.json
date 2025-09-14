@@ -2,7 +2,7 @@
   "name": "redmi14c.optsecure",
   "version": "1.0.0",
   "description": "Script todo-en-uno para optimizar rendimiento y reforzar seguridad en Redmi 14C (HyperOS/Android 14) usando Termux.",
-  "main": "scripts/redmi_opt_secure.sh",
+  "main": "Jasondevtech276/Redmi.optsecure",
   "repository": {
     "type": "git",
     "url": "https://github.com/Jasondevtech276/Redmi.optsecure.git"
