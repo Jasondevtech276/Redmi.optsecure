@@ -1,0 +1,25 @@
+{
+  "name": "redmi14c-optsecure",
+  "version": "1.0.0",
+  "description": "Script todo-en-uno para optimizar rendimiento y reforzar seguridad en Redmi 14C (HyperOS/Android 14) usando Termux.",
+  "main": "scripts/redmi_opt_secure.sh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TU_USUARIO/Redmi14C-OptSecure.git"
+  },
+  "author": "Mohammed Jassem Larbi",
+  "license": "MIT",
+  "scripts": {
+    "lint": "shellcheck scripts/*.sh || true",
+    "test": "echo 'No tests definidos aún'"
+  },
+  "keywords": [
+    "android",
+    "termux",
+    "redmi14c",
+    "hyperos",
+    "optimización",
+    "seguridad",
+    "shizuku"
+  ]
+}
