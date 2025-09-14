@@ -30,7 +30,7 @@ Puede usarse con **Shizuku** o **ADB** cuando se requieran permisos elevados.
 pkg update && pkg upgrade -y
 pkg install -y git termux-api jq nmap
 termux-setup-storage
-git clone https://github.com/TU_USUARIO/Redmi14C-OptSecure.git
+git clone https://github.com/Jasondevtech276/Redmi.optsecure
 cd Redmi14C-OptSecure/scripts
 chmod +x *.sh
 ./redmi_opt_secure.sh
